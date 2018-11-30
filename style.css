@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	width: 100%;
+	padding: 0;
+
+}
+a{
+	text-decoration: none;
+}
+.quote{
+	font-family: "Courier New", Courier, serif;
+	font-size: 75px;
+	font-weight: bold;
+	color: purple;
+}
+
+.box {
+ 	width: 750px;
+    border: 25px solid black;
+    padding: 25px;
+}
+
+.center{
+	margin: 0 auto;
+	width: 50%;
+}
+
+.secondQuoteBox{
+ 	width: 750px;
+    border: 25px solid red;
+    padding: 25px;
+}
+.secondQuote{
+	font-family: "Courier New", Courier, serif;
+	font-size: 75px;
+	font-weight: bold;
+	color: blue;
+}
